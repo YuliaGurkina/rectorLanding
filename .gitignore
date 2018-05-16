@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+CoreSampleSite/wwwroot/dist/
+CoreSampleSite/logs
+node_modules/
+.idea/
+npm-debug.log
+SOS/wwwroot/dist
+SOS/wwwroot/files
